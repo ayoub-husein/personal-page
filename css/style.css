@@ -298,6 +298,7 @@ section.gallery .work-gallery label {
     cursor: pointer;
     border-radius: 2px;
     transition: all 1s ease;
+    margin-bottom: 20px;
 }
 
 section.gallery .work-gallery label:hover {
